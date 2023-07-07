@@ -1,6 +1,6 @@
 # Telcom_Customer_Churn  
 
-## Comtimuous Variables EDA
+## Continuous Variables EDA
 
 ### Power Bi
 
